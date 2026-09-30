@@ -1,0 +1,29 @@
+{
+  "activity_id": "founder-effect",
+  "learning_goals": [
+    "Distinguish random sampling from selection.",
+    "Connect the event to genetic drift and the founder effect."
+  ],
+  "answer_guidance": "The founders are a small chance sample, so their color frequencies differ from the source. This is the founder effect, a form of genetic drift, not evidence of a fitness advantage.",
+  "completion_guidance": "Invite final writing when the student explains chance sampling and connects it to the concepts; no fixed order.",
+  "criteria": [
+    {
+      "id": "chance",
+      "description": "Explains chance sampling",
+      "points": 2,
+      "credit_guidance": "Accept everyday language about a small unrepresentative sample."
+    },
+    {
+      "id": "founder",
+      "description": "Identifies founder effect as genetic drift",
+      "points": 1,
+      "credit_guidance": "Connect the terms to the founding event."
+    },
+    {
+      "id": "not_selection",
+      "description": "Distinguishes drift from selection",
+      "points": 1,
+      "credit_guidance": "Uses the given equal reproductive success to reject an adaptive explanation."
+    }
+  ]
+}

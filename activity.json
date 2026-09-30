@@ -1,0 +1,33 @@
+{
+  "id": "antibiotic-resistance",
+  "title": "An infection returns",
+  "instructions": "Explain your thinking in your own words. You can ask about unfamiliar terms at any point.",
+  "scenario": "Alex develops an E. coli infection, starts a prescribed antibiotic, feels better, and stops earlier than instructed. Symptoms return several days later.",
+  "question": "How could a mostly susceptible population become mostly resistant? Explain using the evidence.",
+  "table": {
+    "columns": [
+      "Sample",
+      "Susceptible",
+      "Resistant"
+    ],
+    "rows": [
+      [
+        "Before treatment",
+        98,
+        2
+      ],
+      [
+        "After symptoms return",
+        10,
+        90
+      ]
+    ]
+  },
+  "data_note": "Researchers randomly test 100 bacteria from each of two samples with the same antibiotic. These are sample proportions, not tracked individuals or total population sizes.",
+  "assumptions": [
+    "Later bacteria descend from the original population, not a new infection.",
+    "Resistance can be inherited.",
+    "These observations do not establish what would have happened with a different treatment duration."
+  ],
+  "reflection_prompt": "How did your explanation develop? What are you still unsure about?"
+}

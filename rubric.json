@@ -1,0 +1,52 @@
+{
+  "activity_id": "antibiotic-resistance",
+  "learning_goals": [
+    "Explain the mechanism in everyday language and connect it to natural selection, selection pressure, and relative fitness.",
+    "Use evidence without demanding exact ratios or a fixed order of concepts."
+  ],
+  "answer_guidance": "Before treatment there is heritable variation in resistance. Under antibiotic exposure, resistant bacteria have greater survival and reproductive success (higher relative fitness). The antibiotic is a selection pressure. Descendants inherit resistance, increasing its frequency. This is natural selection. Do not infer that all susceptible bacteria died or that longer treatment guarantees cure.",
+  "completion_guidance": "Use holistic judgment. Once the mechanism and relevant scientific concepts have been meaningfully connected, invite the final explanation. A strong initial explanation should move to relevant conceptual extension, not repeated table reading. Do not require a separate answer for every point or exact wording. Students may stop without a claim of mastery.",
+  "criteria": [
+    {
+      "id": "natural_selection",
+      "description": "Identifies natural selection as the process",
+      "points": 1,
+      "credit_guidance": "Names natural selection and connects it to their mechanism. Naming alone without understanding is partial evidence."
+    },
+    {
+      "id": "selection_pressure",
+      "description": "Identifies the antibiotic as the selection pressure",
+      "points": 1,
+      "credit_guidance": "Accept equivalent language explaining the antibiotic as the environmental factor causing differential success. Define an unfamiliar term without identifying its case-specific answer."
+    },
+    {
+      "id": "heritable_variation",
+      "description": "Selection acts on existing heritable variation",
+      "points": 1,
+      "credit_guidance": "Combine statements across turns. Pre-existing resistant bacteria plus inherited resistance is sufficient. Do not repeatedly require explaining the existence of two categories."
+    },
+    {
+      "id": "relative_fitness",
+      "description": "Connects differential survival and reproductive success to fitness during treatment",
+      "points": 1,
+      "credit_guidance": "Credit the survival/reproduction reasoning in everyday language. Develop the connection to relative fitness if needed. Fitness is context-dependent, not strength or survival alone."
+    },
+    {
+      "id": "frequency_change",
+      "description": "Explains why inherited resistance becomes more frequent",
+      "points": 1,
+      "credit_guidance": "Survivors produce resistant descendants, increasing their share. Exact ratios and population sizes are not required."
+    }
+  ],
+  "common_misconceptions": [
+    "Antibiotics intentionally cause mutations bacteria need.",
+    "Every susceptible bacterium must turn resistant for the population to change.",
+    "Fitness means strongest regardless of environment and reproductive success.",
+    "The samples track the same 100 individual bacteria."
+  ],
+  "teaching_notes": [
+    "Do not infer a misconception from a short or colloquial answer. Ask only if ambiguity matters.",
+    "An initial explanation that susceptible bacteria die and resistant bacteria reproduce captures important mechanistic reasoning. Build on it by inviting connection to evolutionary concepts.",
+    "Definitions are allowed; leave their case-specific application to the student unless explicitly requested."
+  ]
+}

@@ -1,0 +1,5 @@
+# Exact top-level versions used for the offline verification.
+# Use instead of requirements.txt if you want these same versions.
+openai==2.54.0
+pydantic==2.13.5
+streamlit==1.64.0

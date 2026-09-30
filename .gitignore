@@ -1,0 +1,7 @@
+.venv/
+.streamlit/secrets.toml
+.env*
+data/
+__pycache__/
+research-export.json
+attempts/

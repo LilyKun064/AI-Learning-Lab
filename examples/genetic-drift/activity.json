@@ -1,0 +1,9 @@
+{
+  "id": "founder-effect",
+  "title": "A new island population",
+  "scenario": "A mainland population contains 50 dark beetles and 50 light beetles. A storm carries four dark beetles and one light beetle to an empty island. Both colors have equal survival and reproductive success in this environment. Color is inherited.",
+  "question": "Why does the new population have a different color frequency from the mainland?",
+  "assumptions": [
+    "The five beetles are the founders of the island population."
+  ]
+}
