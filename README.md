@@ -8,7 +8,7 @@ The current activity explores antibiotic resistance. You explain your thinking, 
 
 ## Try it
 
-**Online trial:** Link coming soon.
+**Online trial:** [Click here](https://ai-learning-lab.streamlit.app/)
 
 1. Read the scenario. Ask about any unfamiliar words or details.
 2. Write your initial explanation in your own words. It’s fine to be unsure.
